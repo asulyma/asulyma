@@ -7,7 +7,7 @@ I'm Senior Software Engineer 👨🏻‍💻
 
 #### Top Technologies 🔧  
 
-* Java 8-17, Kotlin, Python
+* Java 8-17, Groovy, Python
 * AWS, ELK, Docker, Kubernetes
 * PostgreSQL, MongoDB
 * Kafka, ElasticSearch, Cassandra
