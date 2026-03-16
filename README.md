@@ -1,18 +1,26 @@
 ## Hi there 👋
-I'm Senior Software Engineer 👨🏻‍💻 
+I'm a Senior Software Engineer 👨🏻‍💻 specializing in backend systems, distributed architectures, and cloud infrastructure.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=asulyma.asulyma)
 ![folowers](https://img.shields.io/github/followers/asulyma?color=green&logo=github)
 
 
-#### Top Technologies 🔧  
+#### Tech Stack 🔧  
 
-* Java 8-17, Groovy, Python
-* AWS, ELK, Docker, Kubernetes
-* PostgreSQL, MongoDB
-* Kafka, ElasticSearch, Cassandra
-* Spring Framework, Hibernate Framework
-* Ansible, Jenkins
+* Java 8-21, Groovy, Python, SQL
+* AWS, ELK, Docker, Kubernetes, Ansible, Jenkins
+* PostgreSQL, MongoDB, Cassandra, ElasticSearch
+* Kafka, Async & Reactive processing, Event-driven systems
+* Spring Boot / Spring Framework, Hibernate / JPA
+
+
+#### Engineering Focus ⚙️
+
+* Designing resilient distributed systems
+* Building high-throughput data pipelines
+* Creating fault-tolerant microservices
+* Improving performance, observability, and reliability
+* Automating infrastructure and deployments
 
 
 #### Where you can find me 
